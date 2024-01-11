@@ -1,0 +1,6 @@
+.divbg{
+    background: url('../assets/divbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
